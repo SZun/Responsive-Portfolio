@@ -446,6 +446,10 @@ hr {
 }
 @media only screen and (max-width: 640px) {
 
+    body {
+        width: 640px
+    }
+    
     .about-me-box {
         width: 650px;
         height: 1450px;
