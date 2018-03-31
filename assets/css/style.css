@@ -258,6 +258,55 @@ hr {
     left: 0;
     font-family: Georgia, 'Times New Roman', Times, serif
 }
+.Hangman-2 {
+    text-align: center;
+    position: absolute;
+    background: #4aaaa5;
+    width: 205px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top: 3px;
+    top: 134px;
+    left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.Hangman-3 {
+    text-align: center;
+    position: absolute;
+    background: #4aaaa5;
+    width: 205px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top: 3px;
+    top: 134px;
+    left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.Hangman-4 {
+    text-align: center;
+    position: absolute;
+    background: #4aaaa5;
+    width: 205px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top: 3px;
+    top: 134px;
+    left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.Hangman-5 {
+    text-align: center;
+    position: absolute;
+    background: #4aaaa5;
+    width: 205px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-top: 3px;
+    top: 134px;
+    left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
 .same-row {
     display: inline-block;
 }
@@ -300,7 +349,7 @@ hr {
 }
 #triviaGame {
     position: absolute;
-    top: 383px;
+    top: 288px;
     left: 183px;
 }
 #rutgetsInfoWidget {
@@ -379,6 +428,11 @@ hr {
         right: 60px;
         top: 30px;
     }
+    .copyright-2 {
+        position: relative;
+        right: 60px;
+        top: 30px;
+    }
     #box {
         width: 132%;
         height: 100px;
@@ -392,6 +446,95 @@ hr {
     }
     .top-line {
         width: 132%;
+    }
+    .about-me-box-2 {
+        width: 400px;
+        height: 1863px;
+    }
+    #rockPaperScissors {
+        position: relative;
+        left: 0;
+    }
+    .Hangman {
+        width: 400px;
+        height: 20px;
+    }
+    .cc-original {
+        height: 300px;
+        width: 380px;
+        margin-top: 35px;
+        float: left;
+        position: relative;
+        left: 7px;
+    }
+    .cc-1 {
+        height: 300px;
+        width: 380px;
+        margin-top: 35px;
+        position: relative;
+        right: 18px;
+        top: -6px;
+    }
+    .cc-2 {
+        height: 300px;
+        width: 380px;
+        margin-top: 35px;
+        position: relative;
+        top: 599px;
+        left: 9px;
+    }
+    .cc-3 {
+        height: 300px;
+        width: 380px;
+        margin-top: 35px;
+        position: relative;
+        left: 218px;
+        top: 114px;
+    }
+    .cc-4 {
+        height: 300px;
+        width: 380px;
+        margin-top: 35px;
+        position: relative;
+        left: 9px;
+        top: -116px;
+    }
+    .Hangman-2,.Hangman-4,.Hangman-3,.Hangman-5 {
+        width: 380px;
+    }
+    .Hangman {
+        position: relative;
+        top: 275px;
+        left: 7px;
+        width:  380px;
+    }
+    .Hangman-2 {
+        position: relative;
+        top: -69px;
+        left: -18px;
+        z-index:  100;
+    }
+    .Hangman-3 {
+        position: relative;
+        top: 536px;
+        left: 9px;
+    }
+    .Hangman-4 {
+        position: relative;
+        top: 50px;
+        left: 218px;
+    }
+    .Hangman-5 {
+        position: relative;
+        top: -181px;
+        left: 8px;
+    }
+    #box-2 {
+        width: 1345px;
+        height: 100px;
+    }
+    #box {
+        height: 100px;
     }
 }
 @media only screen and (max-width: 768px) {
