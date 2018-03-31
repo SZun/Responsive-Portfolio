@@ -614,7 +614,7 @@ hr {
         width: 550px;
     }
     #hr-2 {
-        width: 395px;
+        width: 595px;
     }
     .my-face-size {
         height: 150px;
@@ -646,6 +646,90 @@ hr {
         position: relative;
         right: 147px;
         top: 25px;
+    }
+    .about-me-box-2 {
+        width: 590px;
+        height: 810px;
+        position:  relative;
+        right: 133px;
+    }
+    #rockPaperScissors {
+        position: relative;
+        left: 0;
+    }
+    .Hangman {
+        width: 400px;
+        height: 20px;
+    }
+    .cc-original {
+        height: 200px;
+        width: 280px;
+        margin-top: 35px;
+        float: left;
+        position: relative;
+        left: -6px;
+    }
+    .cc-1 {
+        height: 200px;
+        width: 280px;
+        margin-top: 35px;
+        position: relative;
+        right: -6px;
+        top: 21px;
+    }
+    .cc-2 {
+        height: 200px;
+        width: 280px;
+        margin-top: 35px;
+        position: relative;
+        top: 298px;
+        left: -158px;
+    }
+    .cc-3 {
+        height: 200px;
+        width: 280px;
+        margin-top: 35px;
+        position: relative;
+        left: 207px;
+        top: -228px;
+    }
+    .cc-4 {
+        height: 200px;
+        width: 280px;
+        margin-top: 35px;
+        position: relative;
+        left: 33px;
+        top: -424px;
+    }
+    .Hangman-2,.Hangman-4,.Hangman-3,.Hangman-5 {
+        width: 280px;
+    }
+    .Hangman {
+        position: relative;
+        top: 175px;
+        left: -6px;
+        width:  280px;
+    }
+    .Hangman-2 {
+        position: relative;
+        top: -41px;
+        left: 6px;
+        z-index:  100;
+    }
+    .Hangman-3 {
+        position: relative;
+        top: 235px;
+        left: -158px;
+    }
+    .Hangman-4 {
+        position: relative;
+        top: -290px;
+        left: 207px;
+    }
+    .Hangman-5 {
+        position: relative;
+        top: -485px;
+        left: 33px;
     }
 }
 @media only screen and (max-width: 640px) {
@@ -706,7 +790,7 @@ hr {
     }
     .cc-original {
         height: 300px;
-        width: 380px;
+        width: 536px;
         margin-top: 35px;
         float: left;
         position: relative;
@@ -714,7 +798,7 @@ hr {
     }
     .cc-1 {
         height: 300px;
-        width: 380px;
+        width: 536px;
         margin-top: 35px;
         position: relative;
         right: 18px;
@@ -722,15 +806,15 @@ hr {
     }
     .cc-2 {
         height: 300px;
-        width: 380px;
+        width: 536px;
         margin-top: 35px;
         position: relative;
-        top: 694px;
-        left: 9px;
+        top: 510px;
+        left: -150px;
     }
     .cc-3 {
         height: 300px;
-        width: 380px;
+        width: 536px;
         margin-top: 35px;
         position: relative;
         left: 218px;
@@ -738,20 +822,20 @@ hr {
     }
     .cc-4 {
         height: 300px;
-        width: 380px;
+        width: 536px;
         margin-top: 35px;
         position: relative;
         left: 9px;
         top: -116px;
     }
     .Hangman-2,.Hangman-4,.Hangman-3,.Hangman-5 {
-        width: 380px;
+        width: 536px;
     }
     .Hangman {
         position: relative;
         top: 275px;
         left: 7px;
-        width:  380px;
+        width: 536px;
     }
     .Hangman-2 {
         position: relative;
@@ -761,8 +845,8 @@ hr {
     }
     .Hangman-3 {
         position: relative;
-        top: 632px;
-        left: 9px;
+        top: 446px;
+        left: -150px;
     }
     .Hangman-4 {
         position: relative;
@@ -781,6 +865,7 @@ hr {
     }
     .about-me-box-2 {
         height: 1814px;
+        width: 550px;
     }
     .copyright-3 {
         position: relative;
@@ -788,7 +873,10 @@ hr {
         top: 25px;
     }
     #box-2 {
-    width: 690px;
+    width: 1280px;
     height: 100px;
+    }
+    #hr-2 {
+        width: 540px;
     }
 }
