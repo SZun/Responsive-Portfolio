@@ -529,7 +529,7 @@ hr {
         left: 8px;
     }
     #box-2 {
-        width: 1340px;
+        width: 1032px;
         height: 100px;
     }
     #box {
@@ -551,19 +551,24 @@ hr {
         right: 141px;
         top: 25px;
     }
+    .copyright-2 {
+        position: relative;
+        right: 147px;
+        top: 25px;
+    }
 }
 @media only screen and (max-width: 768px) {
     body {
         width: 768px
     }
     .about-me-box {
-        width: 650px;
-        height: 500px;
+        width: 550px;
+        height: 550px;
         margin-left: 10px;
         margin-right: 10px;
     }
     .aboutMeText {
-        width: 630px;
+        width: 559px;
         height: 500px;
         position: relative;
         top: 3px;
@@ -586,7 +591,7 @@ hr {
     }
     .copyright {
         position: relative;
-        right: 230px;
+        right: 306px;
         top: 30px;
     }
     h1 {
@@ -594,7 +599,7 @@ hr {
         right: 132px;
     }
     hr {
-        width: 640px;
+        width: 550px;
     }
     .my-face-size {
         height: 150px;
@@ -622,7 +627,11 @@ hr {
         position: relative;
         left: -567px;
     }
-
+    .copyright-2 {
+        position: relative;
+        right: 147px;
+        top: 25px;
+    }
 }
 @media only screen and (max-width: 640px) {
 
@@ -631,18 +640,18 @@ hr {
     }
     
     .about-me-box {
-        width: 650px;
+        width: 550px;
         height: 1450px;
     }
     .aboutMeText {
-        width: 630px;
+        width: 550px;
         height: 800px;
         position: relative;
         float: left;
         top: 20px;
     }
     hr {
-        width: 420px;
+        width: 560px;
     }
     .copyright {
         position: relative;
@@ -654,8 +663,8 @@ hr {
         height: 100px;
     }
     .my-face-size {
-        height: 940px;
-        width: 650px;
+        height: 840px;
+        width: 550px;
     }
     .top-line {
         width: 132%;
@@ -757,5 +766,14 @@ hr {
     }
     .about-me-box-2 {
         height: 1814px;
+    }
+    .copyright-3 {
+        position: relative;
+        right: 346px;
+        top: 25px;
+    }
+    #box-2 {
+    width: 690px;
+    height: 100px;
     }
 }
