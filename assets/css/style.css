@@ -90,6 +90,12 @@ hr {
     margin-top: 30px;
     margin-bottom: -5px;
 }
+#hr-2 {
+    border: 1px solid #cccccc;
+    width: 958px;
+    margin-top: 30px;
+    margin-bottom: -5px;
+}
 .line {
     border: 1px solid #cccccc;
     width: 199px;
@@ -427,6 +433,9 @@ hr {
     hr {
         width: 400px;
     }
+    #hr-2 {
+        width: 400px;
+    }
     .copyright {
         position: relative;
         right: 60px;
@@ -578,6 +587,9 @@ hr {
     hr {
         width: 450px;
     }
+    #hr-2 {
+        width: 450px;
+    }
     .topbox,.top-line {
         width: 112%;
     }
@@ -600,6 +612,9 @@ hr {
     }
     hr {
         width: 550px;
+    }
+    #hr-2 {
+        width: 395px;
     }
     .my-face-size {
         height: 150px;
