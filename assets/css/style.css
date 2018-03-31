@@ -411,7 +411,7 @@ hr {
     }
     p1 {
         position: relative;
-        right: 580px;
+        right: 631px;
     }
     .about-me-box {
         width: 400px;
@@ -535,6 +535,22 @@ hr {
     #box {
         height: 100px;
     }
+    .about-me-box-3 {
+        width: 500px
+    }
+    #contact-hr {
+        width: 480px
+    }
+    #box-3 {
+        height: 100px;
+        position: relative;
+        bottom: 318px;
+    }
+    .copyright-3 {
+        position: relative;
+        right: 141px;
+        top: 25px;
+    }
 }
 @media only screen and (max-width: 768px) {
     body {
@@ -583,6 +599,28 @@ hr {
     .my-face-size {
         height: 150px;
         width: 100px;
+    }
+    .about-me-box-3 {
+        width: 500px;
+        position:  relative;
+        left: -127px;
+    }
+    #contact-hr {
+        width: 480px
+    }
+    #box-3 {
+        height: 100px;
+        position: relative;
+        bottom: 318px;
+    }
+    .copyright-3 {
+        position: relative;
+        right: 346px;
+        top: 25px;
+    }
+    p1 {
+        position: relative;
+        left: -567px;
     }
 
 }
@@ -633,7 +671,7 @@ hr {
     h1 {
         position: relative;
         bottom: 0px;
-        width: 758px;
+        width: 752px;
         left: -150px;
         text-align: center;
     }
